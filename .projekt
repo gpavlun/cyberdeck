@@ -1,0 +1,13 @@
+name = "Cyberdeck"
+description = "Cyberize my shit bruh"
+
+icon = "brain"
+priority = 8
+
+[colors]
+card = "#400000"
+title = "#ff5353"
+text = "#bababa"
+accent = "#ff5353"
+button = "#000000"
+button_text = "#fdfdfd"

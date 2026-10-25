@@ -1,0 +1,5 @@
+#!/bin/bash
+
+JAVA_HOME=/usr/lib/jvm/java-21-openjdk-amd64 \
+PATH="/usr/lib/jvm/java-21-openjdk-amd64/bin:$PATH" \
+./gradlew assembleDebug
